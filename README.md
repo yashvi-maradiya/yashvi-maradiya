@@ -1,3 +1,4 @@
+<img src="github banner.png">
 <h1 align="center">Hi 👋, I'm Yashvi Maradiya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
